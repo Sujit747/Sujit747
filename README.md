@@ -1,8 +1,8 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Hey  What's up?</h1>
 
 ###
 
-<p align="left">Hi 👋! My name is Sujit, and I'm currently in my third year pursuing a Bachelor's degree in Computer Engineering at Fr. Conceicao Rodrigues Institute of Technology (FCRIT), located in Navi Mumbai, India.
+<p align="left">Hi! My name is Sujit, and I'm currently in my Fourth year pursuing a Bachelor's degree in Computer Engineering at Fr. Conceicao Rodrigues Institute of Technology (FCRIT), located in Navi Mumbai, India.
 
 As a passionate and curious student in the field of computer engineering, I enjoy exploring various domains of technology including software development, artificial intelligence, and data science. I'm particularly interested in building practical, real-world solutions and have been actively involved in academic projects that involve coding, data analysis, and system design.
 
@@ -15,8 +15,8 @@ Being in my third year, I'm now focusing on enhancing my technical skills, contr
 ###
 
 <p align="left">✨ Creating bugs since:
-2021 — when I first started exploring the world of programming and never looked back (except to fix the bugs I created 😄)<br>📚 I'm currently learning:
-Java Full Stack Development, Artificial Intelligence, Machine Learning, and backend development using Node.js. I'm diving deeper into building scalable applications and intelligent systems.<br>🎯 Goals:
+2021 — when I first started exploring the world of programming and never looked back (except to fix the bugs I created )<br>📚 I'm currently learning:
+Java Full Stack Development, Artificial Intelligence, Machine Learning, and backend development using Node.js. I'm diving deeper into building scalable applications and intelligent systems.<br> Goals:
 To become a skilled and job-ready full stack developer with strong foundations in AI/ML. I aim to contribute to real-world projects, build innovative applications, and eventually work in a tech-driven company where I can grow, learn, and make an impact.</p>
 
 ###
